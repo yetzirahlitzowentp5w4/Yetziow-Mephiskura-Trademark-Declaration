@@ -1,0 +1,1 @@
+# Yetziow-Mephiskura-Trademark-Declaration
