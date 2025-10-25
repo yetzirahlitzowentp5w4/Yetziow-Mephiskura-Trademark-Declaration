@@ -1,41 +1,46 @@
-# Declaration of Professional Identity
+# Professional Declaration — UK
 
-## Yetziow Mephiskura — Video Game Contractor
-
-### 🇬🇧 Jurisdiction
-This declaration applies specifically to the **United Kingdom**, under the legal and professional standards governed by the **UK Intellectual Property Office (UKIPO)**.
+## Yetziow Mephiskura  
+### Independent Video Game Contractor
 
 ---
 
-## 🎮 Professional Commitment
+### 🇬🇧 Jurisdiction
+This declaration is made under the professional and legal standards of the **United Kingdom**, in alignment with the UK Intellectual Property Office (UKIPO) and the broader creative technology sector.
 
-I, **Yetziow Mephiskura**, hereby declare my full professional dedication as a **Video Game Contractor**. This role encompasses a wide range of creative, technical, and collaborative responsibilities within the video game industry, including:
+---
 
-- **Game Design**: Developing gameplay mechanics, interactive systems, and immersive narratives.
-- **Programming & Development**: Building games using engines such as Unity, Unreal Engine, and custom frameworks.
-- **Art & Animation**: Creating 2D/3D assets, character models, environments, and visual effects.
-- **Audio Production**: Designing soundscapes, music, and voice integration for interactive media.
-- **Quality Assurance**: Testing, debugging, and refining gameplay for performance and user experience.
-- **Contractual Collaboration**: Working with studios, publishers, and independent teams under freelance or fixed-term agreements.
+## 🎮 Role & Dedication
 
-This declaration affirms my commitment to uphold professional standards, deliver high-quality work, and contribute meaningfully to the UK gaming ecosystem.
+I, **Yetziow Mephiskura**, formally declare my professional identity as an **Independent Video Game Contractor**. This role represents a full-time commitment to the creation, development, and delivery of video game content and services under contract-based agreements with studios, publishers, and independent teams.
+
+As a contractor, I operate autonomously, offering specialized services across the game development pipeline, including:
+
+- **Game Design & Prototyping**: Designing mechanics, systems, and player experiences tailored to client specifications.
+- **Programming & Technical Implementation**: Writing and optimizing code using engines such as Unity, Unreal Engine, and custom frameworks.
+- **Art & Asset Production**: Delivering 2D/3D models, animations, textures, and visual effects as scoped in contractual terms.
+- **Audio Integration**: Implementing sound design, music, and voice assets using middleware tools.
+- **QA & Debugging**: Conducting testing cycles, reporting issues, and refining gameplay for release readiness.
+- **Remote Collaboration**: Working across time zones and platforms with agile workflows and milestone-based delivery.
+
+This declaration affirms my professional independence, creative integrity, and contractual reliability within the UK video game industry.
 
 ---
 
 ## 🏷️ Trademark Classification (UKIPO)
 
-To protect and represent this professional identity in the United Kingdom, the following trademark classes are relevant under the **Nice Classification system**, as recognized by UKIPO:
+To protect and formalize this professional identity, the following trademark classes are applicable under the **Nice Classification system**, as recognized by the UKIPO:
 
 | Class | Description |
 |-------|-------------|
-| **Class 9** | Software, including video game software and downloadable content |
-| **Class 41** | Entertainment services, including online gaming, game publishing, and multimedia production |
-| **Class 42** | Technology services, including software development, design, and consulting |
+| **Class 9** | Video game software, downloadable content, and digital assets |
+| **Class 41** | Entertainment services including game publishing, online gaming, and interactive media |
+| **Class 42** | Software development, technical consulting, and digital design services |
 
 ---
 
 ## 📌 Notes
 
-- This declaration is intended for professional transparency and branding purposes within the UK.
-- Trademark registration should be pursued through the [UKIPO official portal](https://www.gov.uk/topic/intellectual-property/trade-marks) for legal protection.
+- This declaration serves as a public statement of professional identity and scope of services.
+- Trademark registration should be pursued via the [UKIPO official portal](https://www.gov.uk/topic/intellectual-property/trade-marks) for legal protection.
 - All content, titles, and representations herein are original and attributed to **Yetziow Mephiskura**.
